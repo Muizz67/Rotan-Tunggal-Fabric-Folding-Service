@@ -16,9 +16,13 @@ Finally, main() function will call all the functions above. It will ask if there
 
 screenshot of inputData() function.
 
+
+
 ![image](https://user-images.githubusercontent.com/109788882/180397915-e64aa1ea-6a98-48c6-a5c4-19c8cd78246a.png)
 
 screenshot of calcBasicCharge(), calcAddService(), and displayReceipt() function.
+
+
 
 ![image](https://user-images.githubusercontent.com/109788882/180398059-2e9da2fb-d10d-43b6-b511-c829cf3a0448.png)
 
