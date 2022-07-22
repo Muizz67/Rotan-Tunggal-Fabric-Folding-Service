@@ -13,10 +13,13 @@ Finally, main() function will call all the functions above. It will ask if there
 # Screenshots
 
 ![image](https://user-images.githubusercontent.com/109788882/180396156-415e801a-72f8-471c-b6ef-052bbc8b901c.png)
+
 inputData() function.
 
 ![image](https://user-images.githubusercontent.com/109788882/180397915-e64aa1ea-6a98-48c6-a5c4-19c8cd78246a.png)
+
 calcBasicCharge(), calcAddService(), and displayReceipt() function.
 
 ![image](https://user-images.githubusercontent.com/109788882/180398059-2e9da2fb-d10d-43b6-b511-c829cf3a0448.png)
+
 main function()
